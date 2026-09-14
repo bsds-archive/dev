@@ -75,7 +75,7 @@ SEMESTER_DATA.sem1 = {
           {t:"End-Semester 2024", m:"PDF"},
         ]},
         { name:"Reference Reading", items:[
-          {t:"Fundamentals of Statistics — S.C. Gupta", m:"Book", links:{ drive:"https://drive.google.com/drive/folders/YOUR_FOLDER_ID", dropbox:"https://www.dropbox.com/sh/YOUR_SHARE_LINK" } },
+          {t:"Fundamentals of Statistics — S.C. Gupta", m:"Book", links:{ dropbox:"https://www.dropbox.com/scl/fi/mx103py54vj2jsygrhm8y/Elementary-analysis-the-theory-of-calculus-second-edition.pdf?rlkey=nqa3iu5bp4wj8rimx53hej4ui&st=kseoqriz&dl=0" } },
         ]},
       ]
     },
