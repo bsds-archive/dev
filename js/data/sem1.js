@@ -100,7 +100,7 @@ SEMESTER_DATA.sem1 = {
           {t:"End-Semester 2024", m:"PDF"},
         ]},
         { name:"Reference Reading", items:[
-          {t:"Calculus — Tom M. Apostol", m:"Book"},
+          {t:"Calculus — Tom M. Apostol", m:"Book", links:{ dropbox:"https://www.dropbox.com/scl/fi/mx103py54vj2jsygrhm8y/Elementary-analysis-the-theory-of-calculus-second-edition.pdf?rlkey=nqa3iu5bp4wj8rimx53hej4ui&st=kseoqriz&dl=0" }},
         ]},
       ]
     },
